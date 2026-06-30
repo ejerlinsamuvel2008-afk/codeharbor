@@ -79,4 +79,4 @@ This project is developed for educational purposes as part of an AI & Data Scien
 
 ## Author
 
-Jency Jerushiya J
+Jerlin E

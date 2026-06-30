@@ -75,4 +75,4 @@ This project is intended for educational purposes as part of an AI & Data Scienc
 
 ## Author
 
-Jency Jerushiya J
+Jerlin E
